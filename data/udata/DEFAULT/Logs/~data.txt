@@ -1,0 +1,2 @@
+LAST_LOG_ID=1
++LOG_758893701|FILE=intro_scientist_log:LOGID=1:TYPE=0
