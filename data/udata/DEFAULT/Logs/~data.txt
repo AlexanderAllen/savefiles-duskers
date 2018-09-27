@@ -1,4 +1,4 @@
-LAST_LOG_ID=6
+LAST_LOG_ID=7
 +LOG_758893701|FILE=intro_scientist_log:LOGID=1:TYPE=0
 +LOG_502201080|FILE=storyUniverse_Origin_01:LOGID=2:TYPE=1
 +LOG_1527259743|FILE=storyUniverse_01_color_log_08:LOGID=3:TYPE=1
@@ -29,3 +29,4 @@ LAST_LOG_ID=6
 +OBJ_1678263599|FILE=GG_ColorB4_Log:TYPE=1:ITEM=noteC_greygoo
 +OBJ_1573490539|FILE=GG_ColorB2_Log:TYPE=1:ITEM=noteD_greygoo
 +OBJ_136359996|FILE=SP_Color_Derelict1_Log:TYPE=1:ITEM=noteA_superpredator
++LOG_691619782|FILE=storyUniverse_01_color_log_14:LOGID=7:TYPE=1
