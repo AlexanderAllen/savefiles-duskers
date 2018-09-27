@@ -1,3 +1,5 @@
+p=probe
+move=navigate
 r=remote
 g=pickup
 d=defense
