@@ -8,7 +8,7 @@ LAST_LOG_ID=7
 +LOG_1113954140|FILE=storyDusker_Egg:LOGID=4:TYPE=1
 +greygoo|stepA=4:noteA=4:stepB=2:noteB=4:noteC=4:noteD=4
 +OBJ_1623548491|FILE=GG_A_Log:TYPE=1
-+cosmic|stepA=4:stepB=2:noteA=4
++cosmic|stepA=4:stepB=4:noteA=4:stepC=2
 +OBJ_148008292|FILE=CE_Intro_Log:TYPE=1
 +SAM_0|FILE=110-Void:TITLE=void
 +superpredator|stepA=4:stepB=2:noteA=4
@@ -31,3 +31,5 @@ LAST_LOG_ID=7
 +OBJ_136359996|FILE=SP_Color_Derelict1_Log:TYPE=1:ITEM=noteA_superpredator
 +LOG_691619782|FILE=storyUniverse_01_color_log_14:LOGID=7:TYPE=1
 +OBJ_1863127466|FILE=SING_ColorB1_Log:TYPE=1:ITEM=noteA_singularity
++OBJ_1013018122|FILE=CE_C_Log:TYPE=1
++SAM_2|FILE=100-Doubt:TITLE=doubt
