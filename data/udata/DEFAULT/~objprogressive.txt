@@ -1,5 +1,5 @@
 +pandemic|VIEWED=True:stepA=False:theory_pandemic=True:noteA=True
-+greygoo|VIEWED=True:stepA=False:theory_greygoo=True
++greygoo|VIEWED=True:stepA=True:theory_greygoo=True:noteA=True:stepB=False
 +cosmic|VIEWED=True:stepA=True:theory_cosmic=True:stepB=False:noteA=True
 +sam|VIEWED=True:0=False:1=False
 +superpredator|VIEWED=True:stepA=True:theory_superpredator=True:stepB=False

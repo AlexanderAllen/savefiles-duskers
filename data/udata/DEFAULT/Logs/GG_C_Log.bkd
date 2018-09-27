@@ -1,0 +1,15 @@
+[Leyland Molecular Assembler Maintenance and Guidelines]
+
+Expected Part-Per MillioÔÍÃÂûènts
+
+IndÍð	Class Type	Recommended PPM
+1001	[A-C] Food Replicators	20,000 - 30,000ppm
+1002	[D-F] Medical Support	15,000 - 20,000ppm
+1003	[H-I] Engineering	40,000 - 50,000ppm
+
+Please ensure that you configure vessel scan to utilize the Holzhauer algorithm, refer to section 4B. Any concerns or queries about the part-per million count values should be dir¥èÐêèÑã´ward your Leyland liaison officer.
+
+<color=#62ddf9>///[JIL]:  Reference molecular assembler counts acquired. Holzhauer algorithm integrated. 'Grey goo' theory would posit an abnormally high quantity of molecular assemblers, scanning vessel with a large populace could confirm or deny this and is recommended.</color>
+
+<color=#62ddf9>///[JIL]: Recommend course of action:  
+	[1] Scan all rooms on a class A or B Space Station. </color>
