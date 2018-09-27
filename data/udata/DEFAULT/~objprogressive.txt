@@ -1,2 +1,4 @@
 +pandemic|VIEWED=True:stepA=False:theory_pandemic=True
 +greygoo|VIEWED=True:stepA=False:theory_greygoo=True
++cosmic|VIEWED=True:stepA=False:theory_cosmic=True
++sam|VIEWED=True:0=False
