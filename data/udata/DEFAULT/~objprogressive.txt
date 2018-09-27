@@ -1,0 +1,1 @@
++pandemic|VIEWED=True:stepA=False:theory_pandemic=True
