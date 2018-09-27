@@ -1,6 +1,6 @@
-+pandemic|VIEWED=True:stepA=False:theory_pandemic=True
++pandemic|VIEWED=True:stepA=False:theory_pandemic=True:noteA=True
 +greygoo|VIEWED=True:stepA=False:theory_greygoo=True
 +cosmic|VIEWED=True:stepA=True:theory_cosmic=True:stepB=False:noteA=True
-+sam|VIEWED=True:0=False
-+superpredator|VIEWED=True:stepA=False:theory_superpredator=True
++sam|VIEWED=True:0=False:1=False
++superpredator|VIEWED=True:stepA=True:theory_superpredator=True:stepB=False
 +singularity|VIEWED=True:stepA=False:theory_singularity=True

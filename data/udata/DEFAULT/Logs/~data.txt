@@ -2,7 +2,7 @@ LAST_LOG_ID=6
 +LOG_758893701|FILE=intro_scientist_log:LOGID=1:TYPE=0
 +LOG_502201080|FILE=storyUniverse_Origin_01:LOGID=2:TYPE=1
 +LOG_1527259743|FILE=storyUniverse_01_color_log_08:LOGID=3:TYPE=1
-+pandemic|stepA=2
++pandemic|stepA=2:noteA=4
 +OBJ_1204353283|FILE=storyDusker_01_Holmes_intro_log:TYPE=1
 +OBJ_293545186|FILE=Holmes_Theory_log:TYPE=0
 +LOG_1113954140|FILE=storyDusker_Egg:LOGID=4:TYPE=1
@@ -11,7 +11,7 @@ LAST_LOG_ID=6
 +cosmic|stepA=4:stepB=2:noteA=4
 +OBJ_148008292|FILE=CE_Intro_Log:TYPE=1
 +SAM_0|FILE=110-Void:TITLE=void
-+superpredator|stepA=2
++superpredator|stepA=4:stepB=2
 +OBJ_1406160190|FILE=SP_Intro_Log:TYPE=1
 +OBJ_355181860|FILE=CE_A_Log:TYPE=1
 +OBJ_1179762098|FILE=CE_Theory_log:TYPE=0
@@ -20,3 +20,6 @@ LAST_LOG_ID=6
 +OBJ_1705026412|FILE=SING_A_Log:TYPE=1
 +OBJ_1853520062|FILE=CE_ColorB2_Log:TYPE=1:ITEM=noteA_cosmic
 +LOG_532638736|FILE=storyUniverse_01_color_log_02:LOGID=6:TYPE=1
++OBJ_791295489|FILE=Holmes_ISHO_02_log:TYPE=1:ITEM=noteA_pandemic
++OBJ_2042439989|FILE=SP_03_Log:TYPE=1
++SAM_1|FILE=070-Protests:TITLE=protests
