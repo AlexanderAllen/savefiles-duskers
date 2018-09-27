@@ -1,3 +1,4 @@
+ss=sensor;scan
 p=probe
 move=navigate
 r=remote

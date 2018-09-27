@@ -1,0 +1,19 @@
+
+Scan Results 
+ 
+[BEGIN FILE] 
+	>Vessel Scan Results... 
+  
+		Analyzing PPM ... SUCCESS 
+		Molecular assemblers ... NEGATIVE 
+		Detecting viral particles … POSTIVE 
+		Detecting biological forms … POSITIVE 
+ 
+		SCAN RESULTS:  
+			>: No molecular assemblers identified.  Traces of unidentifiable RNA virus detected. 
+ 
+<color=#62ddf9>///[JIL]: No conclusive reason evident why molecular assemblers are absent from vessel.</color> 
+ 
+<color=#62ddf9>///[JIL]: PPM results inconsistent with 'Expected Part-Per Millions Counts' <reference>. No documented case explains results. Submitted as supplemental: Unable to determine further course of action.</color> 
+  
+[END FILE] 
