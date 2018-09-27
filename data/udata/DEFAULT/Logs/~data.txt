@@ -1,4 +1,4 @@
-LAST_LOG_ID=5
+LAST_LOG_ID=6
 +LOG_758893701|FILE=intro_scientist_log:LOGID=1:TYPE=0
 +LOG_502201080|FILE=storyUniverse_Origin_01:LOGID=2:TYPE=1
 +LOG_1527259743|FILE=storyUniverse_01_color_log_08:LOGID=3:TYPE=1
@@ -8,7 +8,7 @@ LAST_LOG_ID=5
 +LOG_1113954140|FILE=storyDusker_Egg:LOGID=4:TYPE=1
 +greygoo|stepA=2
 +OBJ_1623548491|FILE=GG_A_Log:TYPE=1
-+cosmic|stepA=4:stepB=2
++cosmic|stepA=4:stepB=2:noteA=4
 +OBJ_148008292|FILE=CE_Intro_Log:TYPE=1
 +SAM_0|FILE=110-Void:TITLE=void
 +superpredator|stepA=2
@@ -16,3 +16,7 @@ LAST_LOG_ID=5
 +OBJ_355181860|FILE=CE_A_Log:TYPE=1
 +OBJ_1179762098|FILE=CE_Theory_log:TYPE=0
 +LOG_124268010|FILE=storyUniverse_Origin_02:LOGID=5:TYPE=1
++singularity|stepA=2
++OBJ_1705026412|FILE=SING_A_Log:TYPE=1
++OBJ_1853520062|FILE=CE_ColorB2_Log:TYPE=1:ITEM=noteA_cosmic
++LOG_532638736|FILE=storyUniverse_01_color_log_02:LOGID=6:TYPE=1
