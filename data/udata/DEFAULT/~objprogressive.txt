@@ -1,1 +1,2 @@
 +pandemic|VIEWED=True:stepA=False:theory_pandemic=True
++greygoo|VIEWED=True:stepA=False:theory_greygoo=True

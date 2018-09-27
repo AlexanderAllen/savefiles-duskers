@@ -6,5 +6,5 @@ LAST_LOG_ID=4
 +OBJ_1204353283|FILE=storyDusker_01_Holmes_intro_log:TYPE=1
 +OBJ_293545186|FILE=Holmes_Theory_log:TYPE=0
 +LOG_1113954140|FILE=storyDusker_Egg:LOGID=4:TYPE=1
-+greygoo|stepA=1
++greygoo|stepA=2
 +OBJ_1623548491|FILE=GG_A_Log:TYPE=1
