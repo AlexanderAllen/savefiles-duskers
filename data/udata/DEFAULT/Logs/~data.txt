@@ -6,7 +6,7 @@ LAST_LOG_ID=6
 +OBJ_1204353283|FILE=storyDusker_01_Holmes_intro_log:TYPE=1
 +OBJ_293545186|FILE=Holmes_Theory_log:TYPE=0
 +LOG_1113954140|FILE=storyDusker_Egg:LOGID=4:TYPE=1
-+greygoo|stepA=4:noteA=4:stepB=2
++greygoo|stepA=4:noteA=4:stepB=2:noteB=4:noteC=4
 +OBJ_1623548491|FILE=GG_A_Log:TYPE=1
 +cosmic|stepA=4:stepB=2:noteA=4
 +OBJ_148008292|FILE=CE_Intro_Log:TYPE=1
@@ -25,3 +25,5 @@ LAST_LOG_ID=6
 +SAM_1|FILE=070-Protests:TITLE=protests
 +OBJ_249951864|FILE=GG_ColorB1_Log:TYPE=1:ITEM=noteA_greygoo
 +OBJ_805853480|FILE=GG_C_Log:TYPE=1
++OBJ_772976011|FILE=GG_ColorB3_Log:TYPE=1:ITEM=noteB_greygoo
++OBJ_1678263599|FILE=GG_ColorB4_Log:TYPE=1:ITEM=noteC_greygoo
