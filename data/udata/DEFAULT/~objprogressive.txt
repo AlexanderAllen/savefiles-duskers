@@ -3,4 +3,4 @@
 +cosmic|VIEWED=True:stepA=True:theory_cosmic=True:stepB=False:noteA=True
 +sam|VIEWED=True:0=False:1=False
 +superpredator|VIEWED=True:stepA=True:theory_superpredator=True:stepB=False:noteA=True
-+singularity|VIEWED=True:stepA=False:theory_singularity=True
++singularity|VIEWED=True:stepA=False:theory_singularity=True:noteA=True

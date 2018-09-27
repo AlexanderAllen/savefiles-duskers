@@ -16,7 +16,7 @@ LAST_LOG_ID=7
 +OBJ_355181860|FILE=CE_A_Log:TYPE=1
 +OBJ_1179762098|FILE=CE_Theory_log:TYPE=0
 +LOG_124268010|FILE=storyUniverse_Origin_02:LOGID=5:TYPE=1
-+singularity|stepA=2
++singularity|stepA=2:noteA=4
 +OBJ_1705026412|FILE=SING_A_Log:TYPE=1
 +OBJ_1853520062|FILE=CE_ColorB2_Log:TYPE=1:ITEM=noteA_cosmic
 +LOG_532638736|FILE=storyUniverse_01_color_log_02:LOGID=6:TYPE=1
@@ -30,3 +30,4 @@ LAST_LOG_ID=7
 +OBJ_1573490539|FILE=GG_ColorB2_Log:TYPE=1:ITEM=noteD_greygoo
 +OBJ_136359996|FILE=SP_Color_Derelict1_Log:TYPE=1:ITEM=noteA_superpredator
 +LOG_691619782|FILE=storyUniverse_01_color_log_14:LOGID=7:TYPE=1
++OBJ_1863127466|FILE=SING_ColorB1_Log:TYPE=1:ITEM=noteA_singularity
