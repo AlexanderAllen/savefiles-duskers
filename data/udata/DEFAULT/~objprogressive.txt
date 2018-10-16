@@ -2,5 +2,5 @@
 +greygoo|VIEWED=True:stepA=True:theory_greygoo=True:noteA=True:stepB=True:noteB=True:noteC=True:noteD=True:stepC=True
 +cosmic|VIEWED=True:stepA=True:theory_cosmic=True:stepB=True:noteA=True:stepC=False
 +sam|VIEWED=True:0=False:1=False:2=False
-+superpredator|VIEWED=True:stepA=True:theory_superpredator=True:stepB=False:noteA=True
++superpredator|VIEWED=True:stepA=True:theory_superpredator=True:stepB=True:noteA=True:stepC=False
 +singularity|VIEWED=True:stepA=True:theory_singularity=True:noteA=True:stepB=True:stepC=False
