@@ -1,6 +1,6 @@
-+pandemic|VIEWED=True:stepA=False:theory_pandemic=True:noteA=True:noteB=True
++pandemic|VIEWED=True:stepA=False:theory_pandemic=True:noteA=True:noteB=True:noteC=True
 +greygoo|VIEWED=True:stepA=True:theory_greygoo=True:noteA=True:stepB=True:noteB=True:noteC=True:noteD=True:stepC=True
 +cosmic|VIEWED=True:stepA=True:theory_cosmic=True:stepB=True:noteA=True:stepC=False:noteB=True
-+sam|VIEWED=True:0=False:1=False:2=False:3=False:4=False
-+superpredator|VIEWED=True:stepA=True:theory_superpredator=True:stepB=True:noteA=True:stepC=False:noteB=True:noteC=True
-+singularity|VIEWED=True:stepA=True:theory_singularity=True:noteA=True:stepB=True:stepC=False
++sam|VIEWED=True:0=False:1=False:2=False:3=False:4=False:5=False
++superpredator|VIEWED=True:stepA=True:theory_superpredator=True:stepB=True:noteA=True:stepC=False:noteB=True:noteC=True:noteD=True
++singularity|VIEWED=True:stepA=True:theory_singularity=True:noteA=True:stepB=True:stepC=False:noteB=True

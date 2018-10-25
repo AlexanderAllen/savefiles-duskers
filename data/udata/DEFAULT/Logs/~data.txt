@@ -1,8 +1,8 @@
-LAST_LOG_ID=11
+LAST_LOG_ID=14
 +LOG_758893701|FILE=intro_scientist_log:LOGID=1:TYPE=0
 +LOG_502201080|FILE=storyUniverse_Origin_01:LOGID=2:TYPE=1
 +LOG_1527259743|FILE=storyUniverse_01_color_log_08:LOGID=3:TYPE=1
-+pandemic|stepA=2:noteA=4:noteB=4
++pandemic|stepA=2:noteA=4:noteB=4:noteC=4
 +OBJ_1204353283|FILE=storyDusker_01_Holmes_intro_log:TYPE=1
 +OBJ_293545186|FILE=Holmes_Theory_log:TYPE=0
 +LOG_1113954140|FILE=storyDusker_Egg:LOGID=4:TYPE=1
@@ -11,12 +11,12 @@ LAST_LOG_ID=11
 +cosmic|stepA=4:stepB=4:noteA=4:stepC=2:noteB=4
 +OBJ_148008292|FILE=CE_Intro_Log:TYPE=1
 +SAM_0|FILE=110-Void:TITLE=void
-+superpredator|stepA=4:stepB=4:noteA=4:stepC=2:noteB=4:noteC=4
++superpredator|stepA=4:stepB=4:noteA=4:stepC=2:noteB=4:noteC=4:noteD=4
 +OBJ_1406160190|FILE=SP_Intro_Log:TYPE=1
 +OBJ_355181860|FILE=CE_A_Log:TYPE=1
 +OBJ_1179762098|FILE=CE_Theory_log:TYPE=0
 +LOG_124268010|FILE=storyUniverse_Origin_02:LOGID=5:TYPE=1
-+singularity|stepA=4:noteA=4:stepB=4:stepC=2
++singularity|stepA=4:noteA=4:stepB=4:stepC=2:noteB=4
 +OBJ_1705026412|FILE=SING_A_Log:TYPE=1
 +OBJ_1853520062|FILE=CE_ColorB2_Log:TYPE=1:ITEM=noteA_cosmic
 +LOG_532638736|FILE=storyUniverse_01_color_log_02:LOGID=6:TYPE=1
@@ -48,3 +48,10 @@ LAST_LOG_ID=11
 +SAM_4|FILE=160-Listening:TITLE=listening
 +LOG_1082290449|FILE=storyUniverse_Origin_03:LOGID=10:TYPE=1
 +LOG_1965943117|FILE=storyUniverse_01_color_log_09:LOGID=11:TYPE=1
++LOG_1982208189|FILE=storyUniverse_Theory_04:LOGID=12:TYPE=1
++OBJ_1669396355|FILE=SP_Color_Derelict3_Log:TYPE=1:ITEM=noteD_superpredator
++OBJ_1770500168|RFSH=True:FILE=ISHO_DB_ouposts_log:TYPE=1:ITEM=noteC_pandemic
++LOG_614270479|FILE=storyUniverse_01_color_log_10:LOGID=13:TYPE=1
++SAM_5|FILE=150-Communication:TITLE=communication
++LOG_2103990610|FILE=storyUniverse_Origin_05:LOGID=14:TYPE=1
++OBJ_1209220677|FILE=SING_ColorD1_Log:TYPE=1:ITEM=noteB_singularity
